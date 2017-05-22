@@ -1,2 +1,3 @@
-# germany-ires-2017
-Blog for UCF's 2017 NSF IRES research project on automated storytelling in Ilmenau, Germany.
+# Germany IRES Blog 2017
+
+Hi! This blog details University of Central Florida student experiences while conducting research abroad during Summer 2017 at the University of Ilmenau, University of Technology, in Ilmenau, Germany as part of the National Science Foundation International Research Experience for Students program.
