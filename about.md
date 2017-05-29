@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Welcome! This blog details the experiences of [University of Central Florida](https://www.ucf.edu) Students abroad as part of the [National Science Foundation International Research Experience for Students](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=12831) program. We'll be conducting research at the [University of Ilmenau, University of Technology](https://www.tu-ilmenau.de/en/international/) in Ilmenau, Germany under the direction of German and UCF researchers.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+Continuing the work of [last year's research group](https://ires2016.wordpress.com/2016/05/11/first-blog-post/), PhD student Vera Kazakova and undergraduates Andres Posadas, Lucas Gonzalez and myself-- Lauren Hastings, will be developing a system that uses techniques in Artificial Intelligence to dynamically generate fictional narratives for children. You can check out the Team tab for more about us.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+This blog isn't just for our research progress, however-- expect many posts about life in Germany and our travels in Europe.
+
+Enjoy!
+
+-- Lauren
