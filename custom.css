@@ -1,0 +1,19 @@
+img
+{
+    border-radius: 5px;
+}
+
+.team-pics
+{
+    height: 250px;
+    width: 170px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
+
+.team-description
+{
+    min-width: 680px;
+    min-height: 250px;
+    margin-bottom: 20px;
+}
