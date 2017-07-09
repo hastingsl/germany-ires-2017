@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "We"
+title:  "Weekend Visit: Buchenwald"
 date:   2017-07-08
 ---
 
-This weekend, we visited the Buchenwald concentration memorial outside of Weimar.
+This weekend, we visited the Buchenwald concentration memorial outside of Weimar. <!--excerpt-->
 We visit Weimar once a week and always see the signs for Buchenwald, and since we
 knew we should see at least one concentration camp memorial while in
 Germany, we figured we'd visit the one right in our backyard.
